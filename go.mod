@@ -1,6 +1,6 @@
 module github.com/xtls/xray-core
 
-go 1.24
+go 1.23.8
 
 require (
 	github.com/OmarTariq612/goech v0.0.1
